@@ -14,5 +14,7 @@ Flutter SKD must be installed in your system.
 
 # Build
 * flutter build appbundle
+
 or
+
 * flutter build apk
