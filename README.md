@@ -2,7 +2,7 @@
 
 A simple BMI(Body Mass Index) Calculator.
 
-[BMI](assets/readme/bmi.gif)
+![BMI](assets/readme/bmi.gif)
 
 ## Getting Started
 
